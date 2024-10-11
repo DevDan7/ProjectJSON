@@ -1,0 +1,10 @@
+{
+    "id": [1, 2, 3],
+    "nome": ["Helado", "Frutas", "Almuerzos"],
+    "marca":  ["EFE", "Apple", "Mais Sabor"],
+    "categoria": ["Postre", "Natural", "Casero"],
+    "precio": [50, 15, 150],
+    "estoque": [150, 200, 10],
+    "disponible": true
+    
+}
